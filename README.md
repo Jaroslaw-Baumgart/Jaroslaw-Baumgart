@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaroslaw-Baumgart&theme=dark&hide_border=false&border_radius=5" />
+  <img src="https://streak-stats.demolab.com?user=Jaroslaw-Baumgart&theme=dark&border_radius=5" />
 </p>
 
 ---
