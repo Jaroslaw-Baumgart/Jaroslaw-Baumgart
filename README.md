@@ -56,9 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaroslaw-Baumgart&layout=compact" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaroslaw-Baumgart&theme=dark&border_radius=5" />
-</p>
 
 ---
 
