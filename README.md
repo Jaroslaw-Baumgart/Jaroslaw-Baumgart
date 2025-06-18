@@ -1,7 +1,7 @@
-<h1 align="center">Cześć 👋, jestem Jarosław Baumgart</h1>
+<h1 align="center">Hi there 👋, I'm Jarosław Baumgart</h1>
 
 <p align="center">
-  🎓 Inżynier Automatyki i Robotyki · 🔌 Technik Elektronik · 🏆 3. miejsce w Olimpiadzie Innowacji Technicznej i Wynalazczości (2017)
+  🎓 Engineer in Automation and Robotics · 🔌 Electronics Technician · 🏆 3rd place in the Technical Innovation and Invention Olympiad (2017)
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌱 Aktualnie rozwijam się w TypeScript, Next.js i backendzie w Node.js  
+  🌱 Currently expanding skills in TypeScript, Next.js, and backend development with Node.js  
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠 Technologie & Narzędzia
+### 🛠 Technologies & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,20 +36,20 @@
 
 ---
 
-### 💼 Wybrane projekty
+### 💼 Selected Projects
 
-- **IoT‑project** – aplikacja w React + TypeScript sterująca LED‑matrycą przez API (XAMPP)  
-- **mongoose_acl** – Node.js + MongoDB + Passport + ACL do zarządzania użytkownikami  
-- **Student‑e‑Journal** – system ocen z rolami użytkowników (Express, Sequelize, Passport)  
-- **lightbox** – responsywna galeria z efektem lightbox i dynamicznymi obrazkami (Picsum API)  
-- **toast_source** – minimalistyczne powiadomienia toastowe w czystym JS  
-- **WDSI_PROJEKT** – klasyfikacja obrazów z użyciem Random Forest w Pythonie  
+- **IoT‑project** – React + TypeScript app controlling an LED matrix via API (XAMPP backend)  
+- **mongoose_acl** – User management with Node.js, MongoDB, Passport, and ACL  
+- **Student‑e‑Journal** – Grading system with user roles (Express, Sequelize, MySQL, Passport)  
+- **lightbox** – Responsive photo gallery with lightbox effect and dynamic images (Picsum API)  
+- **toast_source** – Minimal toast notifications in vanilla JS  
+- **WDSI_PROJEKT** – Image classification using Random Forest in Python  
 
-🔗 [Zobacz wszystkie moje repozytoria →](https://github.com/Jaroslaw-Baumgart?tab=repositories)
+🔗 [See all my repositories →](https://github.com/Jaroslaw-Baumgart?tab=repositories)
 
 ---
 
-### 📊 Statystyki
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaroslaw-Baumgart&show_icons=true&theme=transparent" height="165" />
@@ -62,4 +62,4 @@
 
 ---
 
-> 🧠 _„Zawsze w ruchu. Zawsze uczę się czegoś nowego.”_
+> 🧠 _“Always moving forward. Always learning something new.”_
