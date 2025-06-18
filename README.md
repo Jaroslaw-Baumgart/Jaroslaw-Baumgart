@@ -1,4 +1,26 @@
 <h1 align="center">Hi there 👋, I'm Jarosław Baumgart</h1>
+## About Me
+
+Hey! I’m Jarosław — a passionate Fullstack Developer with a background in Automation and Robotics Engineering from Poznań University of Technology and Electronics Technician certification from the Electronic Schools Complex in Bydgoszcz.
+
+I worked for a year as a programmer-automation engineer at IPS Control, where I gained valuable hands-on experience in industrial automation and software integration.
+
+Early on, I combined hardware and software interests, which led me to programming and building innovative projects. For example, my project for the 2017 Technical Innovation and Invention Olympiad was a mobile solar tracker that follows the sun's position to maximize energy efficiency — this won me 3rd place in the competition.
+
+Nowadays, I focus on building scalable web applications using React, TypeScript, Node.js, MongoDB, and MySQL. I believe in clean code, continuous learning, and sharing knowledge with the community.
+
+Outside of coding, I’m deeply interested in automotive technologies, cars, and mechanics. I enjoy designing and creating custom standalone car computers — merging my passion for software with hands-on mechanical projects.
+
+I always enjoy ambitious challenges that push my limits and help me grow both personally and professionally.
+
+My coding philosophy? Hard work beats talent when talent doesn’t work hard. I’m always pushing myself to learn new technologies and improve.
+
+I’m excited to collaborate on meaningful projects, grow as a developer, and contribute to impactful software.
+
+Feel free to reach out if you want to connect or discuss ideas!
+
+---
+
 
 <p align="center">
   🎓 Engineer in Automation and Robotics · 🔌 Electronics Technician · 🏆 3rd place in the Technical Innovation and Invention Olympiad (2017)
