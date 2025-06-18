@@ -59,4 +59,4 @@
 
 ---
 
-> 🧠 _“Always moving forward. Always learning something new.”_
+> 🔥 Ready to take on new challenges and push my limits as a Fullstack Developer.
