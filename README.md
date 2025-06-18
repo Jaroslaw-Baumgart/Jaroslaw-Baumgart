@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jarosław Baumgart</h1>
-## About Me
+
+
+<h1 align="center">About Me</h1>
 
 Hey! I’m Jarosław — a passionate Fullstack Developer with a background in Automation and Robotics Engineering from Poznań University of Technology and Electronics Technician certification from the Electronic Schools Complex in Bydgoszcz.
 
