@@ -52,4 +52,4 @@ A command-line shell implemented in TypeScript, originally developed as part of 
 ## Contact
 
 **Email:** [jaroslawbaumgart@gmail.com](mailto:jaroslawbaumgart@gmail.com)  
-**LinkedIn:** [Jarosław Baumgart](https://www.linkedin.com/in/jaros%C5%82aw-baumgart)S
+**LinkedIn:** [Jarosław Baumgart](https://www.linkedin.com/in/jaros%C5%82aw-baumgart)
